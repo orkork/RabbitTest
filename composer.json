@@ -1,0 +1,8 @@
+{
+  "require": {
+      "videlalvaro/php-amqplib": "2.5.*"
+  },
+  "autoload": {
+      "psr-4": {"Orkork\\": "Orkork/"}
+  }
+}
