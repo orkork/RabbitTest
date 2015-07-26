@@ -7,4 +7,4 @@ Simple RabbitMQ proof-of-concept
 - composer install
 - edit ```congig.php``` to match your needs.
 - start producer ```php listener.php```
-- start producer ```php publisher.php```
+- start publisher ```php publisher.php```
